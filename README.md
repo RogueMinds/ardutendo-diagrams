@@ -2,4 +2,4 @@
 More information to come.
 
 ## Instructions
-Edit with [Google SketchUp](www.google.com/sketchup/download/).
+Edit with [Google SketchUp](http://www.google.com/sketchup/download/).
